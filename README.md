@@ -32,7 +32,7 @@
 <br>
 <hr>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yagnikkansagra&show_icons=true&theme=dark&locale=en&layout=compact" alt="yagnikkansagra" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yagnikgecrajkot&show_icons=true&theme=dark&locale=en&layout=compact" alt="yagnikgecrajkot" /></p>
 
 <br>
 <br>
