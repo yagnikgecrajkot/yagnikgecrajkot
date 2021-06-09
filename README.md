@@ -3,7 +3,7 @@
 
 - 🎓Currently, I'm studying in BE Computer Engineering from GEC Rajkot in Gujarat, India.
 - 🌱 I’m currently learning **JavaScript, p5.js**
-- 👨‍💻 All of my projects are available at [YagnikKansagra](https://github.com/kansagrayagnik?tab=repositories)
+- 👨‍💻 All of my projects are available at [YagnikKansagra](https://github.com/yagnikgecrajkot?tab=repositories)
 - 📫 How to reach me **kansagrayagnik2938@gmail.com**
 
 <h3 align="left">Languages & Tools:</h3>
