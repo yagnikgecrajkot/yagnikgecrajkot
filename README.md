@@ -43,7 +43,7 @@
 <br>
 <hr>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yagnikkansagra&show_icons=true&theme=dark&locale=en" alt="yagnikkansagra" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yagnikgecrajkot&show_icons=true&theme=dark&locale=en" alt="yagnikgecrajkot" /></p>
 
 <hr>
 
